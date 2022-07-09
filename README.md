@@ -7,7 +7,7 @@
 - 💬 Ask me about html, css, javascript, or python.
 - 📫 How to reach me: nubeslol@3gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love dogs!!!
+- ⚡ Fun fact: I love animals!!!
 
 <!--
 **fayo786/fayo786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
