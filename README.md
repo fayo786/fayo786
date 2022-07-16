@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help to get an internship.
 - 💬 Ask me about html, css, javascript, or python.
-- 📫 How to reach me: nubeslol@3gmail.com
+- 📫 How to reach me: melissafayo786@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love pets!!!
 
