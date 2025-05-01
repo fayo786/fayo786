@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my bachelor's degree.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Javascript.
 - 👯 I’m looking to collaborate on new projects.
 - 🤔 I’m looking for help to get an internship.
-- 💬 Ask me about HTML, CSS, javascript, or Python.
+- 💬 Ask me about HTML, CSS, javascript, or Python, C, C#, and C++.
 - 📫 How to reach me: melissafayo786@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love animals!!!
